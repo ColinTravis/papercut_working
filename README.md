@@ -16,7 +16,7 @@
 
 ## Things Karlie I think is working on
 
-* Multi-choice dialogue system. - Almost there!
+~~* Multi-choice dialogue system. - Almost there!~~
 
 ## Things left To-Do
 
