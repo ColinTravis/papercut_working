@@ -12,16 +12,22 @@
 
 ~~* Creating loading systems
   Optimization is key here. Hopefully, a dynamic loading system can be made so as our character falls through each hole into the next level, it can load. _Hopefully._~~
+  
+* I'm making the first level
+  
+* Starting work on a "trapdoor" system
 
 
-## Things Karlie I think is working on
+## Things Karlie is working on
 
 ~~* Multi-choice dialogue system. - Almost there!~~
+* Adding all the dialogue to our blueprints
 
 ## Things left To-Do
 
 * Build a "trapdoor" like system for falling to next level
 * Build out levels
+* Create a film-like look and vignette system
 * Create dialogue
 * Create character blueprints with animations
 * Merge features
